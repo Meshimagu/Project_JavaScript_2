@@ -118,7 +118,7 @@ function result(who) {
         default:
             console.log("Seri");
             break;
-    }
+    };
 
     timeOut = setTimeout(() => {
         ken.style.removeProperty("background-image");
