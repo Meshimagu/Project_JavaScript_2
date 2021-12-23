@@ -105,7 +105,7 @@ button {
     height: 280px;
     background-image: url(ken.png);
     background-position: center center;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: contain;
 }
 
